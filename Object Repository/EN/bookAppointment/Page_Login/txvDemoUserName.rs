@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txvDemoUserName</name>
+   <tag></tag>
+   <elementGuidId>8e171427-10ee-40bc-b0a2-64460ae934a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='${GlobalVariable.gDemoUserName}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//input[@aria-describedby=&quot;demo_username_label&quot;]</value>
+      <webElementGuid>9816e7d1-c59d-4c03-833e-d47d2d0474d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

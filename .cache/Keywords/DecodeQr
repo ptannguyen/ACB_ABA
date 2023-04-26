@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "94692133BE1E9DC708E28A1407A1D1ED",
+  "keywordClasses": [
+    {
+      "name": "DecodeQr",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

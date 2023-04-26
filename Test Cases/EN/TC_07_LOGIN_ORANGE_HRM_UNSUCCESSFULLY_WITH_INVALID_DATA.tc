@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07_LOGIN_ORANGE_HRM_UNSUCCESSFULLY_WITH_INVALID_DATA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e39fcf86-a6a1-4ed4-8a7f-b330362ee6b1</testCaseGuid>
+</TestCaseEntity>

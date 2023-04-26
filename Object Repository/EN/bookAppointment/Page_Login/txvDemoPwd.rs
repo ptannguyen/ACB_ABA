@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txvDemoPwd</name>
+   <tag></tag>
+   <elementGuidId>2201651f-491c-418f-8165-9313da1761e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@aria-describedby=&quot;demo_password_label&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//input[@value='${GlobalVariable.DemoPwd}']</value>
+      <webElementGuid>c4df1ea8-46a2-48bb-8465-686a495d4198</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
