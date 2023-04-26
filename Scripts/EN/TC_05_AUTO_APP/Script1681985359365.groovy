@@ -21,7 +21,7 @@ import common.MobileCommon as MobileCommon
 WebUI.comment("TC_05_AURTO_APP")
 
 WebUI.comment("Step 1: Open Android Navite Demo App ")
-Mobile.startApplication('D:\\AndroidNativeDemoApp.apk', true)
+Mobile.startApplication('D:\\ABA_Project\\ACB_ABA_Project\\AndroidNativeDemoApp.apk', true)
 
 WebUI.comment("Step 2: Click To WebView")
 MobileCommon.clickToButton(findTestObject('Object Repository/EN/AndroidApp/android.widget.TextView - Webview (1)'), 60)
