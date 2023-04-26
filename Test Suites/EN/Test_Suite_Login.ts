@@ -56,11 +56,4 @@
       <testCaseId>Test Cases/EN/TC_07_LOGIN_ORANGE_HRM_UNSUCCESSFULLY_WITH_INVALID_DATA</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>260a46c3-7fc5-4076-89bc-5192ad8e2160</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/EN/TC_04_QUERY_SQL</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>
