@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description>File Account Login</description>
-   <name>login_Page_Data</name>
+   <name>login_Data</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>82e0aa90-9dbf-4d5a-affd-dbcaf6c57ed2</dataFileGUID>
-   <dataSourceUrl>D:\ABA_Project\ACB_ABA_Project\accountlogin.xlsx</dataSourceUrl>
+   <dataSourceUrl>accountlogin.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>

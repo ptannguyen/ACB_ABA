@@ -12,7 +12,7 @@
          <iterationType>SPECIFIC</iterationType>
          <value>1</value>
       </iterationEntity>
-      <testDataId>Data Files/EN/login_Page_Data</testDataId>
+      <testDataId>Data Files/EN/login_Data</testDataId>
    </testDataLinks>
    <variableLinks>
       <testDataLinkId>c1f6c33f-9bf6-44d9-91d8-90daf11c542b</testDataLinkId>
